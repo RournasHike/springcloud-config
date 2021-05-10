@@ -1,4 +1,4 @@
 server:
   port: 7788
 config:
-  info: https://github.com/RournasHike/springcloud-config/edit/master/config-dev.yml
+  info: pull requests
